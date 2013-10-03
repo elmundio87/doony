@@ -1,3 +1,15 @@
+// ==UserScript==
+
+// @name          Doony User Scripe
+
+// @namespace     https://github.com/kevinburke/doony
+
+// @description   Greasemonkey version of doony jenkins theme
+
+// @include       http://tfsbuild:8080/*
+
+// ==/UserScript==
+
 // http://qiao.github.io/ProgressCircle.js/
 (function(window, document, undefined) {
 

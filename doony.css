@@ -553,8 +553,9 @@ textarea
 
 /********************   top panel styles      ***********************/
 .yui-skin-sam #top-panel {
-    background-url: none;
-    background-image: none;
+
+ 
+    background-image: url("https://duckduckgo.com/assets/header_bg.v102.png");
     border-bottom: 1px solid #ccc;
 }
 
@@ -646,7 +647,7 @@ textarea
 body > pre,
 #main-panel > pre {
     font-size: 14px;
-    background-color: #111;
+    background-color: #073642;
     color: #eee;
     padding: 10px 20px 30px;
     border-radius: 3px;
@@ -659,7 +660,7 @@ body > pre a,
 body > pre a:visited,
 #main-panel pre a,
 #main-panel pre a:visited {
-    color: #ED4A6A;
+    color: #b58900;
 }
 /** style permalinks **/
 #main-panel > ul {
